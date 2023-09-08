@@ -1,5 +1,6 @@
 ---
 title: Vertical Stack
+date: 2023-08-29
 ---
 
 This is the strategy that is used across all levels in ultimate, especially at the beginner and the highest level (USA ultimate in particular).

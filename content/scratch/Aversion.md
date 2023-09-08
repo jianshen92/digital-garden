@@ -1,5 +1,6 @@
 ---
 title: Aversion to Change
+date: 2023-08-27
 ---
 
 We are all subject, and the same time, the victim to our own ego. Humans are change-averse, no matter you admit it or not. 

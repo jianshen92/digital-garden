@@ -1,5 +1,6 @@
 ---
 title: Collaboration Kills Creativity
+date: 2023-08-29
 ---
 
 Just as I wrote about [[Aversion]], I came across this chapter in the book I'm currently reading—**Quiet** _by Susan Cain_.

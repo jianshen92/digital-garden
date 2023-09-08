@@ -1,5 +1,6 @@
 ---
 title: Prologue
+date: 2023-08-27
 ---
 Over the years of playing the sport, I have changed my thoughts on multiple times on how could we better play it, tactically.
 
