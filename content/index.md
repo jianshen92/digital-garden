@@ -1,5 +1,6 @@
 ---
 title: Intersection of Art and Science
+date: 2023-08-26
 ---
 
 Yello, I'm Jian Shen.
