@@ -14,15 +14,15 @@ Throughout my career and life journey, I've been immensely fortunate to receive 
 
 I'm seeking passionate individuals who aspire to enter the fields of software engineering or AI but lack the know-how or opportunity to do so. I propose a collaborative project, drawing from my personal experiences and challenges faced over the years. The learning approach is top-down: **Learn What Matters**, **Build Something You Desire**, and **Enjoy the Thrill of Exploration**.
 
-This opportunity is ideal for:
+I'd love to work with you if you are:
 
 - Students or recent graduates with non-CS/AI degrees aiming to enter this field.
 - Working professionals considering a career switch.
 - Software engineers curious about AI.
-- Those looking to transition from AI to software engineering.
+- Looking to transition from AI to software engineering.
 - .. Or just anyone with a love for exploration and learning
 
-We'll work together to build a project at your pace, ideally within three months, with a commitment of a several hours each week for your own work and weekly discussions.
+We'll work together to build a project at your pace, ideally within **three months**, with a commitment of a **several hours each week** for your own work and **weekly discussions**.
 
 The goal is to equip you with the tools for self-sufficiency in your ongoing journey.
 
@@ -36,4 +36,4 @@ My only desire? Is that you'll be able to echo this gift passed to you today, to
 
 ## So.. Who Am I?
 
-I'm someone who has worked in the tech space and is forever thankful for those who aided my journey without expecting anything in return.
+I'm someone who has worked a little in the tech space and is forever thankful for those who aided my journey without expecting anything in return.
