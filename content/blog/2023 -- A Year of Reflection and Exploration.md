@@ -19,7 +19,7 @@ The search extended another four months, during which I undertook a contract job
 
 By the end of July, I had several offers, each with its advantages and disadvantages. Notably, all offers came through referrals or connections.
 
-Deciding on an offer was incredibly challenging, especially as it reawakened past emotional traumas. I consulted many for advice, notably Ulf, Yann, and Sze Jin, who offered valuable perspectives. I'm grateful to everyone for their support.
+Deciding on an offer was incredibly challenging, especially as it reawakened past emotional traumas. I consulted many for advice, notably Ulf, Yann, Robert (from Cardano!) and Sze Jin, who offered valuable perspectives. I'm grateful to everyone for their support.
 
 Ultimately, I employed the Regret Minimization Framework, devised by Jeff Bezos, asking myself, "Would I regret X if I made Y decision in two years?" The answers weren't straightforward. I was on the verge of accepting other offers, but I chose BentoML, recognizing a deep-seated fear of missing out on this opportunity with a "Silicon Valley" startup, however vain that may seem.
 
