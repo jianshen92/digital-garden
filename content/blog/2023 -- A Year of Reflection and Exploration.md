@@ -135,7 +135,7 @@ A series of questionable financial decisions and unfortunate events made this ye
 
 # Frisbee?
 
-The first half of the year marked my second season coaching the Zealous frisbee team. The season began with high hopes but concluded with a vibe that was slightly less than satisfactory. Upon reflection, many lessons were learned, meriting a detailed post of its own. One key insight is the importance of a stable personal life for effective leadership; stresses in one's career or relationships can adversely affect one's leadership and, by extension, the team.
+The first half of the year marked my second season coaching the Zealous frisbee team. The season began with high hopes but concluded with a vibe that was slightly less than satisfactory. Upon reflection, many lessons were learned, so much that it deserves a detailed post of its own, if I will ever write one haha! One main learning is the importance of a stable personal life for effective leadership; stresses in one's career or relationships can adversely affect one's leadership and, by extension, the team.
 
 Despite the challenges, it was a year filled with valuable experiences, fueling my drive to lead the national team this year.
 
