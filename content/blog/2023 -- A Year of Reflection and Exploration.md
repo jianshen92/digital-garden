@@ -82,7 +82,7 @@ Indeed, it was a year of exploration. I traveled to numerous places, experiencin
 
 # Learning When to Give Yourself Some Slack
 
-Mid-year, I found myself pushing too hard. Every activity aimed at self-improvement, whether it was watching educational videos, exercising, or learning new skills. Feeling inadequate due to multiple failures and unemployment, I felt a constant need to better myself (though the metrics were unclear).
+Mid-year, I found myself pushing too hard. Every activity I did was aimed at self-improvement, whether it was watching educational videos, exercising, or learning new skills. Feeling inadequate due to multiple failures and unemployment, I felt a constant need to better myself (though the metrics of what is better were unclear).
 
 One day, I decided to ease up on myself. I began allowing myself to enjoy the little things again, such as playing games and consuming entertainment content.
 
