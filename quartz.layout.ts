@@ -40,7 +40,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.RecentNotes(),
+    Component.RecentNotes({
+      title: "Recent Writings",
+      limit: 5,
+    }),
     Component.Backlinks(),
   ],
 }
