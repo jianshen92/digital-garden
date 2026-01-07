@@ -2,7 +2,7 @@
 title: The SEA Games 2025 - A Full Circle
 date: 2025-12-31
 ---
-	Dear Malaysia 🇲🇾,
+Dear Malaysia 🇲🇾,
 
 This is *Jian Shen* , and I am writing this letter to our SEA Games representatives, and to everyone else who has committed to two full years of NTP.
 
